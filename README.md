@@ -20,7 +20,7 @@
 
 | Heroku | Replit | Terohost |
 |---|---|---|
-| [![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://replit.com/@NotSaksh/Hydrox#README.md) | [![Run on Repl.it](https://replit.com/badge/github/NotSaksh/Hydrox)](https://replit.com/@Sakshyam6968/hydrox-4) | [![Run on Terohost](https://raw.githubusercontent.com/IgorKowalczyk/majobot/master/src/img/readme/terohost_scaled.png)](https://terohost.com) |
+| [![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com) | [![Run on Repl.it](https://replit.com/badge/github/NotSaksh/Hydrox)](https://replit.com/) | [![Run on Terohost](https://raw.githubusercontent.com/IgorKowalczyk/majobot/master/src/img/readme/terohost_scaled.png)](https://terohost.com) |
 
 <hr>
 1. Fork The Repo / Star It
@@ -35,7 +35,7 @@
 * MONGO_URI=Your Mongo Url
 * NASA_TOKEN=Your Nasa Token
 ```
-4. Don't Know How To Get Apis? [Join Our Discord](https://discord.gg/q2VMwvQWZk)
+4. Don't Know How To Get Apis? [Join Our Discord](https://discord.gg/notsaksh)
 5. Installing Packages
 ```
 * npm install
@@ -55,7 +55,7 @@
 <hr>
 
 ## Support / Help
-* [Join Our Server For Help](https://discord.gg/q2VMwvQWZk)
+* [Join Our Server For Help](https://discord.gg/notsaksh)
 * [Add Me On Discord](https://discord.com/user/745581095747059722)
 * [*NotSaksh#6969*](https://www.youtube.com/channel/UCCSxnxwMXQHTAIjVjaAg7CQ)
 
