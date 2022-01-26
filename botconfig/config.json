@@ -1,0 +1,29 @@
+{
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lava.link",
+         "port": 80,
+         "password": "hydrox"
+      }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "",
+    "clientID": ""
+  },
+
+  "settings": {
+    "selfDeaf": false,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,      
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  }
+}
